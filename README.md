@@ -25,7 +25,7 @@
 
 ## Sobre mim
 
-Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), no 5º período, morando em Guarapari-ES.
+Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), no 6º período, morando em Guarapari-ES.
 
 - Foco em **desenvolvimento back-end** com Java/Spring e Python/Flask
 - Procurando uma **vaga de estágio** em desenvolvimento
