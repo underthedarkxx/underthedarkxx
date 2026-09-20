@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Roberto%20Dias&fontColor=FFFFFF&fontSize=48&fontAlignY=35&desc=Desenvolvedor%20Back-end%20em%20formação&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=140&section=header" width="100%" />
+
+# Roberto Dias
+
+### Desenvolvedor Back-end em formação · Guarapari-ES, Brasil
+
 
 <a href="https://robertodias.vercel.app/">
   <img src="https://img.shields.io/badge/Portfólio-robertodias.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
