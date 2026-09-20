@@ -1,23 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0891B2,100:22D3EE&height=140&section=header" width="100%" />
+<img src="assets/header.svg" alt="Roberto Dias — Desenvolvedor Back-end" width="100%" />
 
-# Roberto Dias
-
-### Desenvolvedor Back-end em formação · Guarapari-ES, Brasil
-
+<br>
 
 <a href="https://robertodias.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-robertodias.vercel.app-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfólio-0B0D10?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=0B0D10" />
 </a>
 <a href="https://www.linkedin.com/in/roberto-dias-rdfa23/">
-  <img src="https://img.shields.io/badge/LinkedIn-Roberto%20Dias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0B0D10?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0B0D10" />
 </a>
 <a href="mailto:roberto.diasfurtadoaraujo@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--mail-0B0D10?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0B0D10" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=underthedarkxx&label=Visitas%20no%20perfil&color=06B6D4&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=underthedarkxx&label=Visitas&color=00E5FF&style=for-the-badge" />
 
 </div>
 
@@ -25,7 +21,7 @@
 
 ## Sobre mim
 
-Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), no 6º período, morando em Guarapari-ES.
+Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), no 5º período, morando em Guarapari-ES.
 
 - Foco em **desenvolvimento back-end** com Java/Spring e Python/Flask
 - Procurando uma **vaga de estágio** em desenvolvimento
@@ -42,28 +38,28 @@ Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), n
 
 **Linguagens**
 
-![Java](https://img.shields.io/badge/Java-0891B2?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0891B2?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0891B2?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0891B2?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0891B2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0891B2?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0B0D10?style=for-the-badge&logo=openjdk&logoColor=00E5FF&labelColor=0B0D10)
+![Python](https://img.shields.io/badge/Python-0B0D10?style=for-the-badge&logo=python&logoColor=00E5FF&labelColor=0B0D10)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0D10?style=for-the-badge&logo=javascript&logoColor=00E5FF&labelColor=0B0D10)
+![SQL](https://img.shields.io/badge/SQL-0B0D10?style=for-the-badge&logo=mysql&logoColor=00E5FF&labelColor=0B0D10)
+![HTML5](https://img.shields.io/badge/HTML5-0B0D10?style=for-the-badge&logo=html5&logoColor=00E5FF&labelColor=0B0D10)
+![CSS3](https://img.shields.io/badge/CSS3-0B0D10?style=for-the-badge&logo=css3&logoColor=00E5FF&labelColor=0B0D10)
 
 **Frameworks e bibliotecas**
 
-![Spring](https://img.shields.io/badge/Spring-0891B2?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-0891B2?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0891B2?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0891B2?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-0B0D10?style=for-the-badge&logo=spring&logoColor=00E5FF&labelColor=0B0D10)
+![Flask](https://img.shields.io/badge/Flask-0B0D10?style=for-the-badge&logo=flask&logoColor=00E5FF&labelColor=0B0D10)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0B0D10?style=for-the-badge&logo=sqlalchemy&logoColor=00E5FF&labelColor=0B0D10)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0B0D10?style=for-the-badge&logo=bootstrap&logoColor=00E5FF&labelColor=0B0D10)
 
 **Ferramentas e infraestrutura**
 
-![Git](https://img.shields.io/badge/Git-0891B2?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0891B2?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0891B2?style=for-the-badge&logo=linux&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0891B2?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0891B2?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-0891B2?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0B0D10?style=for-the-badge&logo=git&logoColor=00E5FF&labelColor=0B0D10)
+![Docker](https://img.shields.io/badge/Docker-0B0D10?style=for-the-badge&logo=docker&logoColor=00E5FF&labelColor=0B0D10)
+![Linux](https://img.shields.io/badge/Linux-0B0D10?style=for-the-badge&logo=linux&logoColor=00E5FF&labelColor=0B0D10)
+![MySQL](https://img.shields.io/badge/MySQL-0B0D10?style=for-the-badge&logo=mysql&logoColor=00E5FF&labelColor=0B0D10)
+![SQLite](https://img.shields.io/badge/SQLite-0B0D10?style=for-the-badge&logo=sqlite&logoColor=00E5FF&labelColor=0B0D10)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-0B0D10?style=for-the-badge&logo=oracle&logoColor=00E5FF&labelColor=0B0D10)
 
 </div>
 
@@ -82,17 +78,12 @@ Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), n
 
 ---
 
-## Estatísticas
+## Números
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=underthedarkxx&theme=nord_dark&v=3" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=underthedarkxx&theme=nord_dark&v=3" height="190" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=underthedarkxx&theme=nord_dark&v=3" height="190" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=underthedarkxx&theme=nord_dark&v=3" height="190" />
-
+<img src="assets/stats.svg" alt="Estatísticas do GitHub" height="205" />
+<img src="assets/langs.svg" alt="Linguagens mais usadas" height="205" />
 
 </div>
 
@@ -103,7 +94,5 @@ Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), n
 ### Aberto a oportunidades de estágio em back-end
 
 Guarapari-ES · Presencial, híbrido ou remoto
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0891B2,100:0D1117&height=120&section=footer" width="100%" />
 
 </div>
