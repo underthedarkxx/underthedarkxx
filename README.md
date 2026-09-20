@@ -71,8 +71,16 @@ Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), n
 
 ## Projetos em destaque
 
-| Projeto | Descrição | Stack |
+| Projeto | O que é | Stack |
 | :--- | :--- | :--- |
+| **[E-Ponto](https://github.com/underthedarkxx/E_Ponto)** | Ponto eletrônico web: batidas com geolocalização, banco de horas, relatórios legais (AFD/AEJ) e 2FA | `Python` `Flask` `SQLAlchemy` |
+| **[S.Dias — Estoque e Vendas](https://github.com/underthedarkxx/Gerenciamento-de-estoque-e-vendas.)** | API REST de estoque, produção e vendas: ficha técnica, lotes de maceração e baixa de estoque atômica | `Java 21` `Spring Boot` `JPA` `MySQL` |
+| **[Imperium](https://github.com/underthedarkxx/Imperium)** | API REST com Spring Security, JWT e JPA, acompanhada de frontend web | `Java 21` `Spring Boot` `JWT` |
+| **[EngenhaTech](https://github.com/underthedarkxx/Engenhatec)** | Plataforma educacional feita em equipe: API Flask com autenticação JWT e área de assinantes | `Python` `Flask` `JWT` |
+| **[Controle de Estoque](https://github.com/underthedarkxx/Sistema_de_Controle_de_Estoque)** | Java puro com POO e Swing: cadastro de produtos, vendas, relatórios e cálculo de lucro | `Java` `POO` |
+| **[Portfólio](https://github.com/underthedarkxx/siteApresentacao)** | Meu site pessoal, publicado na Vercel | `HTML` `CSS` `Bootstrap` |
+
+--- | :--- | :--- |
 | **[E-Ponto](https://github.com/underthedarkxx/E_Ponto)** | Sistema de ponto eletrônico web, com registro à prova de adulteração e modelagem de 15 tabelas | `Python` `Flask` `SQLAlchemy` |
 | **[Gerenciamento de Estoque e Vendas](https://github.com/underthedarkxx/Gerenciamento-de-estoque-e-vendas.)** | Controle de produtos, entradas e saídas com persistência de dados | `Java` |
 | **[Imperium](https://github.com/underthedarkxx/Imperium)** | Aplicação Java orientada a objetos | `Java` |
@@ -85,12 +93,12 @@ Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), n
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=underthedarkxx&theme=2077" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=underthedarkxx&theme=2077&v=2" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=underthedarkxx&theme=2077" height="190" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=underthedarkxx&theme=2077" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=underthedarkxx&theme=2077&v=2" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=underthedarkxx&theme=2077&v=2" height="190" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=underthedarkxx&theme=2077" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=underthedarkxx&theme=2077&v=2" height="190" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=underthedarkxx&hide_border=true&background=0D1117&stroke=0891B2&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="180" />
 
