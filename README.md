@@ -93,7 +93,6 @@ Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), n
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=underthedarkxx&theme=nord_dark&v=3" height="190" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=underthedarkxx&hide_border=true&background=0D1117&stroke=0891B2&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="180" />
 
 </div>
 
