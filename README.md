@@ -80,10 +80,15 @@ Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), n
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=underthedarkxx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=underthedarkxx&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=underthedarkxx&theme=github_dark" width="100%" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=underthedarkxx&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=underthedarkxx&theme=github_dark" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=underthedarkxx&theme=github_dark" height="190" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=underthedarkxx&theme=github_dark" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=underthedarkxx&theme=github_dark&utcOffset=-3" height="190" />
+
+<img src="https://streak-stats.demolab.com/?user=underthedarkxx&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="180" />
 
 </div>
 
