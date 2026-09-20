@@ -80,25 +80,18 @@ Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), n
 | **[Controle de Estoque](https://github.com/underthedarkxx/Sistema_de_Controle_de_Estoque)** | Java puro com POO e Swing: cadastro de produtos, vendas, relatórios e cálculo de lucro | `Java` `POO` |
 | **[Portfólio](https://github.com/underthedarkxx/siteApresentacao)** | Meu site pessoal, publicado na Vercel | `HTML` `CSS` `Bootstrap` |
 
---- | :--- | :--- |
-| **[E-Ponto](https://github.com/underthedarkxx/E_Ponto)** | Sistema de ponto eletrônico web, com registro à prova de adulteração e modelagem de 15 tabelas | `Python` `Flask` `SQLAlchemy` |
-| **[Gerenciamento de Estoque e Vendas](https://github.com/underthedarkxx/Gerenciamento-de-estoque-e-vendas.)** | Controle de produtos, entradas e saídas com persistência de dados | `Java` |
-| **[Imperium](https://github.com/underthedarkxx/Imperium)** | Aplicação Java orientada a objetos | `Java` |
-| **[Projeto Biblioteca](https://github.com/underthedarkxx/Projeto-Biblioteca)** | Gestão de acervo e empréstimos | `Python` |
-| **[Site Apresentação](https://github.com/underthedarkxx/siteApresentacao)** | Página de apresentação responsiva | `HTML` `CSS` |
-
 ---
 
 ## Estatísticas
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=underthedarkxx&theme=2077&v=2" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=underthedarkxx&theme=nord_dark&v=3" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=underthedarkxx&theme=2077&v=2" height="190" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=underthedarkxx&theme=2077&v=2" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=underthedarkxx&theme=nord_dark&v=3" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=underthedarkxx&theme=nord_dark&v=3" height="190" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=underthedarkxx&theme=2077&v=2" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=underthedarkxx&theme=nord_dark&v=3" height="190" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=underthedarkxx&hide_border=true&background=0D1117&stroke=0891B2&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="180" />
 
