@@ -13,7 +13,6 @@
 <a href="mailto:roberto.diasfurtadoaraujo@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-0B0D10?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0B0D10" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=underthedarkxx&label=Visitas&color=00E5FF&style=for-the-badge" />
 
 </div>
 
