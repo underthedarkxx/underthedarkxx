@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Roberto Dias — Desenvolvedor Back-end">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07090C"/>
+      <stop offset="60%" stop-color="#0A0E13"/>
+      <stop offset="100%" stop-color="#06181D"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="120%" r="85%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.38"/>
+      <stop offset="55%" stop-color="#00E5FF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#00E5FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.05"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#00E5FF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="230" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="230" rx="14" fill="url(#grid)"/>
+  <rect width="1000" height="230" rx="14" fill="url(#glow)"/>
+  <rect x="0" y="228" width="1000" height="2" fill="url(#line)"/>
+
+  <g font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    <text x="60" y="88" fill="#00E5FF" font-size="15" letter-spacing="6" font-weight="600">DESENVOLVEDOR BACK-END</text>
+    <text x="58" y="150" fill="#EAF6F8" font-size="54" font-weight="700" letter-spacing="1">Roberto Dias</text>
+    <text x="61" y="184" fill="#7C8B99" font-size="17">Java · Spring Boot · Python · Flask — Guarapari-ES, Brasil</text>
+  </g>
+
+  <g opacity="0.85">
+    <circle cx="905" cy="62" r="4" fill="#00E5FF"/>
+    <circle cx="930" cy="62" r="4" fill="#00E5FF" opacity="0.55"/>
+    <circle cx="955" cy="62" r="4" fill="#00E5FF" opacity="0.25"/>
+  </g>
+</svg>
