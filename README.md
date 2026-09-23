@@ -68,6 +68,7 @@ Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), n
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
+| **[Orquestrador de Arquivos](https://github.com/underthedarkxx/orquestrador-multiplataforma)** | Organiza arquivos automaticamente por regras YAML: watch em tempo real, undo por sessão, busca por conteúdo (FTS5+Tika) e fallback via IA — multiplataforma (Linux/Windows), em uso diário | `Java 26` `SQLite` `Apache Tika` `picocli` |
 | **[E-Ponto](https://github.com/underthedarkxx/E_Ponto)** | Ponto eletrônico web: batidas com geolocalização, banco de horas, relatórios legais (AFD/AEJ) e 2FA | `Python` `Flask` `SQLAlchemy` |
 | **[S.Dias — Estoque e Vendas](https://github.com/underthedarkxx/Gerenciamento-de-estoque-e-vendas.)** | API REST de estoque, produção e vendas: ficha técnica, lotes de maceração e baixa de estoque atômica | `Java 21` `Spring Boot` `JPA` `MySQL` |
 | **[Imperium](https://github.com/underthedarkxx/Imperium)** | API REST com Spring Security, JWT e JPA, acompanhada de frontend web | `Java 21` `Spring Boot` `JWT` |
