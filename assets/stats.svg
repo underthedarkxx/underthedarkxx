@@ -11,16 +11,16 @@
     <text x="28" y="40" fill="#00E5FF" font-size="16" font-weight="700" letter-spacing="1">ESTATÍSTICAS</text>
 
     <text x="28" y="80" fill="#7C8B99" font-size="14">Commits totais</text>
-    <text x="452" y="80" fill="#EAF6F8" font-size="16" font-weight="700" text-anchor="end">236</text>
+    <text x="452" y="80" fill="#EAF6F8" font-size="16" font-weight="700" text-anchor="end">240</text>
 
     <text x="28" y="112" fill="#7C8B99" font-size="14">Repositórios públicos</text>
-    <text x="452" y="112" fill="#EAF6F8" font-size="16" font-weight="700" text-anchor="end">17</text>
+    <text x="452" y="112" fill="#EAF6F8" font-size="16" font-weight="700" text-anchor="end">18</text>
 
     <text x="28" y="144" fill="#7C8B99" font-size="14">Projetos em que contribuí</text>
     <text x="452" y="144" fill="#EAF6F8" font-size="16" font-weight="700" text-anchor="end">8</text>
 
     <text x="28" y="176" fill="#7C8B99" font-size="14">Estrelas recebidas</text>
-    <text x="452" y="176" fill="#EAF6F8" font-size="16" font-weight="700" text-anchor="end">10</text>
+    <text x="452" y="176" fill="#EAF6F8" font-size="16" font-weight="700" text-anchor="end">11</text>
   </g>
   <g stroke="#12303A" stroke-width="1">
     <line x1="28" y1="92" x2="452" y2="92"/>
