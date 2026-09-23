@@ -59,6 +59,7 @@ Estudante de **Sistemas de Informação** na Universidade de Vila Velha (UVV), n
 ![MySQL](https://img.shields.io/badge/MySQL-0B0D10?style=for-the-badge&logo=mysql&logoColor=00E5FF&labelColor=0B0D10)
 ![SQLite](https://img.shields.io/badge/SQLite-0B0D10?style=for-the-badge&logo=sqlite&logoColor=00E5FF&labelColor=0B0D10)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-0B0D10?style=for-the-badge&logo=oracle&logoColor=00E5FF&labelColor=0B0D10)
+![Anthropic Claude](https://img.shields.io/badge/Claude%20API-0B0D10?style=for-the-badge&logo=anthropic&logoColor=00E5FF&labelColor=0B0D10)
 
 </div>
 
